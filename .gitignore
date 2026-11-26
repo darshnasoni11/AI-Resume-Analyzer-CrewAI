@@ -1,0 +1,9 @@
+
+.env
+*.pdf
+*.docx
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+Resume_Analyzer_Outputs/
+AI_Resume_Analyzer_Results/
